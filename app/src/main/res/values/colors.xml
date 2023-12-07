@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="vibrant_light_red">#FFB3B3</color>
+    <color name="vibrant_light_orange">#FFC2A3</color>
+    <color name="vibrant_light_yellow">#FFD7A3</color>
+    <color name="vibrant_light_green">#C3E59A</color>
+    <color name="vibrant_light_blue">#A3C7FF</color>
+    <color name="vibrant_light_purple">#D6A3FF</color>
+    <color name="vibrant_light_pink">#FFA3CB</color>
+    <color name="vibrant_light_cyan">#A3EBF1</color>
+    <color name="vibrant_light_magenta">#F1A3E3</color>
+    <color name="vibrant_light_teal">#A3FFED</color>
+    <color name="vibrant_light_indigo">#A3A8FF</color>
+    <color name="vibrant_light_lime">#E1FFA3</color>
+    <color name="vibrant_light_amber">#FFD480</color>
+    <color name="vibrant_light_deep_purple">#9E80FF</color>
+    <color name="vibrant_light_deep_orange">#FF9E80</color>
+    <color name="vibrant_light_deep_orange2">#FF8150</color>
+
+    <color name="vibrant_light_light_green">#80FFB7</color>
+    <color name="vibrant_light_light_blue">#80C7FF</color>
+    <color name="vibrant_light_light_pink">#FF80B7</color>
+    <color name="vibrant_light_light_cyan">#80F2F6</color>
+
+
+
+
+</resources>
